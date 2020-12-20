@@ -45,13 +45,13 @@ img {
   font-family: "Arial";
   background-color: #333333;
   top: 0vw;
-  position: sticky;
+  position: fixed;
 }
 
 .topnav {
   background-color: #333;
   top: 0vw;
-  position: sticky;
+  position: fixed;
 }
   
   /* Style the links inside the navigation bar */
