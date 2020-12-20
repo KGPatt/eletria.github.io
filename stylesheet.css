@@ -44,11 +44,12 @@ img {
 .headclass {
   font-family: "Arial";
   background-color: #333333;
+  position: fixed;
 }
 
 .topnav {
   background-color: #333333;
-  overflow: scroll;
+  #overflow: hidden;
 }
   
   /* Style the links inside the navigation bar */
