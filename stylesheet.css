@@ -46,14 +46,12 @@ img {
   background-color: #333333;
   top: 0vw;
   position: sticky;
-  position: -webkit-sticky;
 }
 
 .topnav {
   background-color: #333;
   top: 0vw;
   position: sticky;
-  position: -webkit-sticky;
 }
   
   /* Style the links inside the navigation bar */
