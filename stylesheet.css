@@ -44,16 +44,16 @@ img {
 .headclass {
   font-family: "Arial";
   background-color: #333333;
+  top: 0vw;
   position: sticky;
   position: -webkit-sticky;
-  top: 0; /* required */
 }
 
 .topnav {
   background-color: #333;
+  top: 0vw;
   position: sticky;
   position: -webkit-sticky;
-  top: 0; /* required */
 }
   
   /* Style the links inside the navigation bar */
