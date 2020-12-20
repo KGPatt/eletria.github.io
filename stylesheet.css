@@ -44,6 +44,7 @@ img {
 .headclass {
   font-family: "Arial";
   background-color: #333333;
+  position: sticky;
 }
 
 .topnav {
