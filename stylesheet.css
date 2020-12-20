@@ -48,6 +48,7 @@ img {
 
 .topnav {
   background-color: #333;
+  position: fixed;
   overflow: hidden;
 }
   
