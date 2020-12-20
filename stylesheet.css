@@ -44,13 +44,11 @@ img {
 .headclass {
   font-family: "Arial";
   background-color: #333333;
-  position: fixed;
 }
 
 .topnav {
   background-color: #333333;
   overflow: hidden;
-  position: fixed;
 }
   
   /* Style the links inside the navigation bar */
@@ -61,7 +59,6 @@ img {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  position: fixed;
 }
   
   /* Change the color of links on hover */
@@ -69,12 +66,10 @@ img {
   background-color: #fff06e;
   color: #333333;
   opacity: 0.8;
-  position: fixed;
 }
   
   /* Add a color to the active/current link */
 .topnav a.active {
   background-color: #fff06e;
   color: #333333;
-  position: fixed;
 }
