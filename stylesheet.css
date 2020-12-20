@@ -48,9 +48,7 @@ img {
 
 .topnav {
   background-color: #333;
-  position: fixed;
-  top: 0;
-  /*overflow: hidden;*/
+  overflow: hidden;
 }
   
   /* Style the links inside the navigation bar */
