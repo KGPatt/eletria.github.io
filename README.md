@@ -1,0 +1,4 @@
+# KGPatt.github.io
+The World of Eletria
+ IF YOU ARE LOOKING AND SNOOPING AROUND STOP LOOKING
+ 
