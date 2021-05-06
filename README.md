@@ -1,4 +1,4 @@
 ```# KGPatt.github.io
-The World of Eletria```
+The World of Eletria
 
  
