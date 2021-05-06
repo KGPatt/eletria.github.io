@@ -1,0 +1,75 @@
+body {
+  background-color: #D3D4D9;
+  font-family: "Ubuntu";
+  margin: 0;
+}
+
+body, h1 {
+  margin: 0;
+  height: 59px;
+}
+
+h1 {
+  padding-left: 80px;
+  padding-top: 20px;
+  color: #F9F0F1;
+  font-family: "Ubuntu";
+}
+
+h2 {
+  padding-left: 15px;
+  color: #333333;
+}
+
+h3 {
+  padding-left: 15px;
+  color: #333333;
+}
+
+a {
+  padding-left: 15px;
+  color:#fff06e;
+  font-size: 18px;
+}
+
+p {
+  padding-left: 15px;
+  color: #333333;
+}
+
+img {
+  padding-left: 15px;
+}
+
+.headclass {
+  font-family: "Arial";
+  background-color: #333333;
+}
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+  /* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #F9F0F1;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+  
+  /* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #fff06e;
+  color: #333333;
+  opacity: 0.8;
+}
+  
+  /* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #fff06e;
+  color: #333333;
+}
