@@ -1,6 +1,12 @@
+@font-face {
+  font-family: minecraft;
+  src: url(3_Minecraft-Bold.ttf);
+}
+
+
 body {
   background-color: #D3D4D9;
-  font-family: "Ubuntu";
+  font-family: "minecraft";
   margin: 0;
 }
 
@@ -13,9 +19,9 @@ h1 {
   padding-left: 80px;
   padding-top: 20px;
   color: #F9F0F1;
-  font-family: "Ubuntu";
+  font-family: "minecraft";
 }
-
+/* old font was "Ubuntu */
 h2 {
   padding-left: 15px;
   color: #333333;
