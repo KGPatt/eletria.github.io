@@ -1,8 +1,10 @@
+@font-face {font-family:"Minecraft Bold";src:url("3_Minecraft-Bold.eot?") format("eot"),url("3_Minecraft-Bold.woff") format("woff"),url("3_Minecraft-Bold.ttf") format("truetype"),url("3_Minecraft-Bold.svg#Minecraft-Bold") format("svg");font-weight:normal;font-style:normal;}
+/*
 @font-face {
   font-family: minecraft;
   src: url("../eletria/3_Minecraft-Bold.ttf") format('truetype');
 }
-
+*/
 
 body {
   background-color: #D3D4D9;
