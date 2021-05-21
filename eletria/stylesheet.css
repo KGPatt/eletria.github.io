@@ -8,9 +8,9 @@
 
 
 body {
- /* background-color: #D3D4D9;*/
+ background-color: #D3D4D9;
  /* background-image: url("https://github.com/KGPatt/KGPatt.github.io/blob/78fb91770bc35452b9cebfe593d4fe030b078d9c/eletria/2021-01-22_22.17.52.png"); */
-  background-image:url(https://cdn.discordapp.com/attachments/785014379166564422/802304388818534440/unknown.png)
+  background-image: url(https://cdn.discordapp.com/attachments/785014379166564422/802304388818534440/unknown.png)
   font-family: "minecraftbold";
   margin: 0;
 }
