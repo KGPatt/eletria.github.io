@@ -1,8 +1,8 @@
 
 @font-face {
     font-family: 'minecraftbold';
-    src: url('3_minecraft-bold-webfont.woff2') format('woff2'),
-         url('3_minecraft-bold-webfont.woff') format('woff');
+    src: url('eletria/3_minecraft-bold-webfont.woff2') format('woff2'),
+         url('eletria/3_minecraft-bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
