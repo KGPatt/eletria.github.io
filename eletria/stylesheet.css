@@ -1,6 +1,6 @@
 @font-face {
   font-family: minecraft;
-  src: url(eletria/3_Minecraft-Bold.ttf);
+  src: url("../eletria/3_Minecraft-Bold.ttf") format('truetype');
 }
 
 
