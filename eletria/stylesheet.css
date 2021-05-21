@@ -1,6 +1,6 @@
 
 
-
+body {
 @font-face {
     font-family: 'minecraftbold';
     src: url('3_minecraft-bold-webfont.woff2') format('woff2'),
@@ -11,7 +11,7 @@
 }
 
 
-body {
+
   background-color: #D3D4D9;
   font-family: "Minecraft Bold";
   margin: 0;
