@@ -1,4 +1,4 @@
-@font-face {font-family:"Minecraft Bold";src:url("3_Minecraft-Bold.ttf") format("truetype");font-weight:normal;font-style:normal;}
+@font-face {font-family:"Minecraft Bold";src:url("eletria/3_Minecraft-Bold.ttf") format("truetype");font-weight:normal;font-style:normal;}
 /*
 @font-face {
   font-family: minecraft;
@@ -8,7 +8,7 @@
 
 body {
   background-color: #D3D4D9;
-  font-family: "minecraft";
+  font-family: "Minecraft Bold";
   margin: 0;
 }
 
@@ -21,7 +21,7 @@ h1 {
   padding-left: 80px;
   padding-top: 20px;
   color: #F9F0F1;
-  font-family: "minecraft";
+  font-family: "Minecraft Bold";
 }
 /* old font was "Ubuntu */
 h2 {
